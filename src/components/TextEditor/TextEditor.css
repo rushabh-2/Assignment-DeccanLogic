@@ -1,0 +1,9 @@
+.App .editor {
+    width: 700px;    
+    margin-Right:20%;
+    margin-top: 48px;
+    border: 1px;
+    border-style: solid;
+    border-color: gray;
+    
+  }
